@@ -5,10 +5,17 @@ console.log(section);
 
 let campoPesquisa = document.getElementById("campo-pesquisa").value;
 
-if (!campoPesquisa) {
+
+if (campoPesquisa == ""){
     section.innerHTML= "Insira uma palavra-chave"
     return
 }
+
+if (campoPesquisa.trim() === "") {
+    section.innerHTML = "Insira uma palavra-chave";
+    return;
+  }
+  
 
 console.log(campoPesquisa);
 

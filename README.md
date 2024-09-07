@@ -1,6 +1,6 @@
 
 
-### **OnepeeIA: Sua IA, Sua Busca - Projeto realizado na imersão dev com Google Gemini** 
+### **OnepeeIA - Projeto realizado na imesão dev com Google Gemini** 
 
 **O que é o OnepeeIA?**
 
